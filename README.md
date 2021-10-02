@@ -40,7 +40,7 @@ Here are some ideas to get you started:
  ### TECHNOLOGIES
  
   [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black)](github.com/moonnada)
-  [![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=black)](github.com/moonnada)
+  [![Heroku](https://img.shields.io/badge/Heroku-5C0D34?style=flat-square&logo=Heroku&logoColor=black)](github.com/moonnada)
   [![aws](https://img.shields.io/badge/aws-FF9900?style=flat-square&logo=Amazon&logoColor=black)](github.com/moonnada)
 
 
