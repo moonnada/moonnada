@@ -17,38 +17,19 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=moonnada🌙&fontSize=60)
 
 <div align=center>
+
+### 👨‍💻 About Me
+  * :mortar_board:  Study Software Engineering at San Jose State University
+  * :yum:  Enjoy learning about web technologies and extracting insights from data 
  
- ### LANGUAGES
- 
- 
-[![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=black)](github.com/moonnada)
-[![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](github.com/moonnada)
-[![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=black)](github.com/moonnada)
- 
- ### FRONT-END
- 
-  [![React](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=React&logoColor=black)](github.com/moonnada)
-  [![MaterialUI](https://img.shields.io/badge/MaterialUI-0081CB?style=flat-square&logo=Material-UI&logoColor=black)](github.com/moonnada)
-  [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=black)](github.com/moonnada)
- 
- ### BACK-END
- 
- [![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=black)](github.com/moonnada)
- [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=black)](github.com/moonnada)
-  
- 
- ### TECHNOLOGIES
- 
-  [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black)](github.com/moonnada)
-  [![Heroku](https://img.shields.io/badge/Heroku-916BBF?style=flat-square&logo=Heroku&logoColor=black)](github.com/moonnada)
-  [![aws](https://img.shields.io/badge/aws-FF9900?style=flat-square&logo=Amazon&logoColor=black)](github.com/moonnada)
 
 
- <a href="https://github.com/moonnada">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moonnada" alt="Ray's GitHub Stats" title="GitHub Streak" />
+<a href="https://github.com/moonnada">
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=moonnada" alt="Ray's GitHub Stats" title="GitHub Streak" />
 </a> 
 <br></br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moonnada&layout=compact" alt="Ray's Github Most Used Languages">
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moonnada&layout=compact" alt="Ray's Github Most Used Languages">
 
  
  <br />
