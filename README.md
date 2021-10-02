@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <div align=center>
  
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](github.com/moonnada/TODO-List)
-  [![React](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=React.js&logoColor=black)](github.com/moonnada/TODO-List)
+  [![React](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=React&logoColor=black)](github.com/moonnada/TODO-List)
   [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](github.com/moonnada/TODO-List)
   [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](github.com/moonnada/TODO-List)
 
