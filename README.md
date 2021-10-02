@@ -27,8 +27,6 @@ Here are some ideas to get you started:
 <a href="https://github.com/moonnada">
 <img height=200 align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=moonnada" alt="Ray's GitHub Stats" title="GitHub Streak" />
 </a> 
-
-
 <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moonnada&layout=compact" alt="Ray's Github Most Used Languages">
 
  <br></br>
