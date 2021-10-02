@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 
 ### 👨‍💻 About Me
   * :mortar_board:  Study Software Engineering at San Jose State University
+  * :Grinning Face: Love rock clibming, cycling and workout
  
  
 
