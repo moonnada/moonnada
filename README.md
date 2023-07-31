@@ -19,8 +19,9 @@ Here are some ideas to get you started:
 
 
 ### 👨‍💻 About Me
-  * 🎓 Study Software Engineering at San Jose State University
-  * 😀  Love rock climbing, cycling, and working out
+  * 😆 Passionated full-stack developer
+  * 🤓 Worked at 2 different startups for about 2 years.
+  * 😀 Love rock climbing, cycling, and working out
  
  
  <br />
