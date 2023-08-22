@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 ### 👨‍💻 About Me
-  * 😆 Passionated full-stack developer
+  * 😆 Passionated Frontend developer
   * 🤓 Worked at 2 different startups for about 2 years.
   * 😀 Love rock climbing, cycling, and working out
  
