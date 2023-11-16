@@ -21,5 +21,4 @@ Here are some ideas to get you started:
 ### 👨‍💻 About Me
   * 😆 Frontend developer
   * 🤓 Worked at 2 different startups for about 2 years.
-    
  <br />
