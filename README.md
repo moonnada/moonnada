@@ -19,9 +19,7 @@ Here are some ideas to get you started:
 
 
 ### 👨‍💻 About Me
-  * 😆 Passionated Frontend developer
+  * 😆 Frontend developer
   * 🤓 Worked at 2 different startups for about 2 years.
-  * 😀 Love rock climbing, cycling, and working out
- 
- 
+    
  <br />
