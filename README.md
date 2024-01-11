@@ -19,8 +19,9 @@ Here are some ideas to get you started:
 
 
 ### 👨‍💻 About Me
-  * 😆 Frontend developer
+  * 😆 Software developer
   * 🤓 Worked at 2 different startups for about 2 years.
+  * 😄 Certified AWS cloud developer
 <a href="https://www.linkedin.com/in/ray-kim0727/">
   <img
     alt="Linkedin"
