@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 
 ### 👨‍💻 About Me
-  * 😆 Software developer
-  * 🤓 Worked at 2 different startups for about 2 years.
-  * 😄 Certified AWS cloud developer
+  * 😆 Software developer in the bay area
+  * 🤓 Worked at 3 different startups for about 2 years.
+  * 😄 Certified AWS cloud developer(has the AWS Cloud Practitioner and pursuing the AWS Solution Architect certification now)
 <a href="https://www.linkedin.com/in/ray-kim0727/">
   <img
     alt="Linkedin"
