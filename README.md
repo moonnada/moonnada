@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 
 ### 👨‍💻 About Me
   * 😆 Software developer in the bay area
-  * 🤓 Worked at 3 different startups for about 2 years.
-  * 😄 Certified AWS cloud developer(has the AWS Cloud Practitioner and pursuing the AWS Solution Architect certification now)
+  * 🤓 Worked at 5 different startups for about 3 years.
+  * 😄 Certified AWS Cloud Practitioner and AWS Solution Architect Associate certification.
 <a href="https://www.linkedin.com/in/ray-kim0727/">
   <img
     alt="Linkedin"
